@@ -935,23 +935,23 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     height: 45px;
     border-radius: 50%;
     font-size: 20px;
-    color: #255afc;
+    color: #262324;
     transition-duration: .3s;
     transition-property: transform;
     transition-timing-function: ease-out;
 }
 .footer-social-icon ul li a i:hover{
     color: var(--white-color);
-    background-color:#255afc ;
+    background-color:#262324 ;
     transform: translateY(-8px);
 }
 .footer-social-icon ul li:nth-child(2) a i{
-    color: #f33a7e;
+    color: #262324;
     margin-left: 11px;
     margin-right: 11px;
 }
 .footer-social-icon ul li:nth-child(2) a i:hover{
-    background: #f33a7e;
+    background: #262324;
     color: var(--white-color);
     transform: translateY(-8px);
 }

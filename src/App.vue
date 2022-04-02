@@ -1,14 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <HeaderAndBanner></HeaderAndBanner>
   
 </template>
 
 <script>
-
+import HeaderAndBanner from "./components/HeaderAndBanner.vue"
 
 export default {
   name: 'App',
   components: {
+    HeaderAndBanner,
     
   }
 }
