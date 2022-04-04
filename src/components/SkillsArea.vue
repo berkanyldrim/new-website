@@ -1,6 +1,6 @@
 <template>
     <!-- skill section -->
-        <section class="w-100 float-left skill-con padding-top padding-bottom position-relative" id="about-con">
+        <section class="w-100 float-left skill-con padding-top padding-bottom position-relative" id="Skills">
             <div class="container">
             <div class="skill-inner-con position-relative">
                 <div class="row">
@@ -118,16 +118,11 @@
                         <h2>Beautiful & Unique
                             Digital Experiences
                         </h2>
-                        <p>Nostrum exercitationem ullam corporis suscipit laborioa
-                            nisi ut aliquid exrea commodi consequatur magni dolores 
-                            aos qui ratione voluptatem nesciunt.
+                        <p>
+                            Skills that I use and have in my education, business life and projects
                         </p>
-                        <p>Quia voluptas sit aspernatur aut odit aut fugit, sed ruiano
-                            consequntar magni dolores.
-                        </p>
-                        <div class="generic-btn download-bnt">
-                            <a href="#" id="downloadImg" onclick="downloadImage()">Download CV</a>                  
-                        </div>
+                        
+                        
                         </div>
                     </div>
                 </div>

@@ -34,7 +34,7 @@
                     <div class="banner-btn generic-btn d-inline-block">
                         <a href="#Contact">Hire Me</a>
                     </div>
-                    <a href="#Portfolio" class="See-btn">See My Work</a>
+                    
                 </div>
             </div>
             <div class="col-lg-5 col-sm-12">

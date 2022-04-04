@@ -5,13 +5,12 @@
             <div class="weight-footer-content text-center wow fadeInUp" >
                <figure class="">
                   <img src="assets/image/footer-logo.png" alt="footer-logo" class="img-fluid">
-                  Berkan Yıldırım
                </figure>
                <div class="footer-navbar">
                   <ul class="list-unstyled">
                      <li class="d-inline-block border-left-0 pl-0"><a href="#home">Home</a></li>
-                     <li class="d-inline-block"><a href="#about-con">About</a></li>
-                     <li class="d-inline-block"><a href="#service-con">Services</a></li>
+                     <li class="d-inline-block"><a href="#Skills">Skills</a></li>
+                     <li class="d-inline-block"><a href="#About">About</a></li>
                   </ul>
                </div>
                <div class="footer-social-icon">

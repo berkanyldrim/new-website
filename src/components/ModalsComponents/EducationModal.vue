@@ -7,14 +7,14 @@
                </div>
                <div class="modal-body service-model-content">
                   
-                  <h4>Ui/Ux Design</h4>
-                  <p class="mb-md-4 mb-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>  
+                  <h2>Education</h2>
+                  
                      <ul class="list-unstyled model-list mb-md-3 mb-2">
-                     <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
-                     <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
-                     <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
-                  </ul>
-                  <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>  
+                        <li><i class="fas fa-university"></i> Computer Engineering (Master's degree), Ataturk University 2022-Present </li>
+                        <li><i class="fas fa-university"></i> Computer Engineering (Bachelor's Degree), Ataturk University 2016-2020 </li>
+                        <li><i class="fas fa-school"></i> Hamdi Bozbag Anatolian High School 2012-2016</li>
+                     </ul>
+                  
                </div>
             </div>
          </div>

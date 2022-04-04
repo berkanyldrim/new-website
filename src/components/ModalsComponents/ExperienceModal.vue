@@ -6,17 +6,37 @@
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" ><i class="far fa-times"></i></span></button>
                </div>
                <div class="modal-body service-model-content">
-                  <figure class="mb-0">
-                     <img src="assets/image/web-designer-model-img.jpg" alt="web-designer-model-img" class="img-fluid">
-                  </figure>
-                  <h4>Web Design</h4>
-                  <p class="mb-md-4 mb-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>  
-                     <ul class="list-unstyled model-list mb-md-3 mb-2">
-                     <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
-                     <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
-                     <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+                  
+                  <h2>Professional Experience</h2>
+                  
+                  <ul class="list-unstyled model-list mb-md-3 mb-2">
+                     <li><i class="fas fa-laptop"></i>Jr. Frontend Developer at Albert  Software and Consulting services (Remote),
+                        <ul class="chield-lu" > November 2021 - Present
+                           <li class="chield-li">Supported both the web design and interface in the frontend, and the web projects, Converted design to code using technologies such as HTML, CSS, JavaScript, and Bootstrap.</li>
+                        </ul>
+                     
+                     </li>
+                     
+                     <li><i class="fas fa-laptop"></i>Intern at NFS SOFT, Erzurum-Turkey
+                        <ul class="chield-lu">Software Internship (3 Months) - 2020
+                           <li class="chield-li">2 Website Projects</li>
+                           <li class="chield-li">Converted design to code using technologies such as HTML, CSS,
+                           JavaScript, and Bootstrap,designed a project using wordpress, Supported
+                           both the web design and interface in the frontend</li>
+                        </ul>
+                     </li>
+
+                     <li><i class="fas fa-laptop"></i> Intern at Kanmaz Information Technologies, Istanbul - Turkey
+                        
+                        <ul class="chield-lu">Hardware internship (1 month) - 2020
+                           
+                           <li class="chield-li">Working on computer components</li>
+                           <li class="chield-li">Technical computer parts and information about</li>
+                        </ul>
+                        
+                     </li>
                   </ul>
-                  <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>  
+                  
                </div>
             </div>
          </div>
@@ -29,3 +49,13 @@ export default {
     name:"ExperienceModal"
 }
 </script>
+
+<style>
+.chield-li{
+   font-weight: 400 !important; 
+}
+.chield-lu{
+   font-weight: 500 !important;
+   margin-left: 10px;
+}
+</style>

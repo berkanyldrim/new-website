@@ -6,17 +6,22 @@
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" ><i class="far fa-times"></i></span></button>
         </div>
         <div class="modal-body service-model-content">
-            <figure class="mb-0">
-                <img src="assets/image/web-development-model-img.jpg" alt="web-development-model-img" class="img-fluid">
-            </figure>
-            <h4>Web Development</h4>
-            <p class="mb-md-4 mb-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>  
-                <ul class="list-unstyled model-list mb-md-3 mb-2">
-                <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
-                <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
-                <li><i class="fas fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+            
+            <h2>Courses and Certificates</h2>
+            
+            <ul class="list-unstyled model-list mb-md-3 mb-2">
+                <li><i class="fad fa-certificate"></i> Logo Cyber Security - FullStack(Nodejs/Vuejs) Bootcamp </li>
+                
+                <li><i class="fas fa-file-certificate"></i> Web Development with HTML5</li>
+                <li><i class="fas fa-file-certificate"></i> CSS</li>
+                <li><i class="fas fa-file-certificate"></i> Version Control and Portfolio(GIT)</li>
+                <li><i class="fas fa-file-certificate"></i>Career Path in Software <a href="https://app.patika.dev/certificates/fvXnNSZ">Link</a> </li>
+                <li><i class="fas fa-file-certificate"></i>Beginner level .Net Core path <a href="https://app.patika.dev/certificates/fvXha9a">Link</a> </li>
+                <li><i class="fas fa-file-certificate"></i> Solidity Smart Contract Fundamental-Ethereum&BlockChain</li>
+                <li><i class="fas fa-file-certificate"></i> Introduction to Social Media Expertise</li>
+                
             </ul>
-            <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>  
+            
         </div>
     </div>
     </div>

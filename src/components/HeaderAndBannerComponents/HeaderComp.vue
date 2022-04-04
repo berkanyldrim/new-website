@@ -18,10 +18,10 @@
                             <a class="nav-link p-0 is-active" href="index.html">Home<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="#service-con">Services</a>
+                            <a class="nav-link p-0" href="#About">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="#about-con">About</a>
+                            <a class="nav-link p-0" href="#Skills">Skills</a>
                         </li>
                     </ul>
                     <div class="d-inline-block contact">
